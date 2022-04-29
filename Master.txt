@@ -8,4 +8,4 @@ change.log https://github.com/DiamondChef/MistakeUpdateStatus/raw/main/files/cha
 <Version: 1.02>
 /img/system/start.png https://github.com/DiamondChef/MistakeUpdateStatus/raw/main/files/start.png
 change.log https://github.com/DiamondChef/MistakeUpdateStatus/raw/main/files/change.log
-<End of Version
+<End of Version>
