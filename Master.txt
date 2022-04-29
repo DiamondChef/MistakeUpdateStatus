@@ -2,4 +2,5 @@
 /icon/icon.png https://raw.githubusercontent.com/DiamondChef/MistakeUpdateStatus/main/files/icon.png
 /fonts/VT323-Regular.ttf https://github.com/DiamondChef/MistakeUpdateStatus/raw/main/files/VT323-Regular.ttf
 /img/parallaxes/flower1.png https://raw.githubusercontent.com/DiamondChef/MistakeUpdateStatus/main/files/flower1.png
+change.log https://github.com/DiamondChef/MistakeUpdateStatus/raw/main/files/change.log
 <End of Version>
