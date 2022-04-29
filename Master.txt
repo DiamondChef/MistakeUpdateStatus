@@ -1,8 +1,9 @@
 <Version: 0.1.0>
-
+/img/SumRndmDde/auto-updates/Background.png https://i.imgur.com/Q6hkatD.png
 <End of Version>
 
 <Version: 0.1.1>
 /icon/icon.png https://raw.githubusercontent.com/DiamondChef/MistakeUpdateStatus/main/files/icon.png
 /fonts/VT323-Regular.ttf https://github.com/DiamondChef/MistakeUpdateStatus/raw/main/files/VT323-Regular.ttf
+/img/SumRndmDde/auto-updates/Background.png https://i.imgur.com/Q6hkatD.png
 <End of Version>
