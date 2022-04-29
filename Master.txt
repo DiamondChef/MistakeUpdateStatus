@@ -3,5 +3,6 @@
 <End of Version>
 
 <Version: 0.1.1>
-
+/icon/icon.png https://raw.githubusercontent.com/DiamondChef/MistakeUpdateStatus/main/files/icon.png
+/fonts/VT323-Regular.ttf 
 <End of Version>
