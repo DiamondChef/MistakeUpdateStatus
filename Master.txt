@@ -6,6 +6,6 @@ change.log https://github.com/DiamondChef/MistakeUpdateStatus/raw/main/files/cha
 <End of Version>
 
 <Version: 1.02>
-/img/system/start.png https://github.com/DiamondChef/MistakeUpdateStatus/raw/main/files/start.png
+/img/system/Start.png https://github.com/DiamondChef/MistakeUpdateStatus/raw/main/files/start.png
 change.log https://github.com/DiamondChef/MistakeUpdateStatus/raw/main/files/change.log
 <End of Version>
