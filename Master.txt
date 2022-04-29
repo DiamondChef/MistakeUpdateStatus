@@ -4,3 +4,8 @@
 /img/parallaxes/flower1.png https://raw.githubusercontent.com/DiamondChef/MistakeUpdateStatus/main/files/flower1.png
 change.log https://github.com/DiamondChef/MistakeUpdateStatus/raw/main/files/change.log
 <End of Version>
+
+<Version: 1.02>
+/img/system/start.png https://github.com/DiamondChef/MistakeUpdateStatus/raw/main/files/start.png
+change.log https://github.com/DiamondChef/MistakeUpdateStatus/raw/main/files/change.log
+<End of Version
